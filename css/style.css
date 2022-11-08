@@ -65,6 +65,34 @@ main{
 }
 
 /*sezione principale*/
+section{
+    margin-bottom: 30px;
+}
+
+h2::before{
+    content: '\25BC';
+}
+
 ul{
     list-style-type: none;
+    line-height: 40px;
+    padding-left: 10px;
+}
+
+.check::before{
+    content: '\2714';
+    color: #7bcab7;
+    border: 1px solid #7bcab7;
+    border-radius: 50%;
+}
+
+.cross::before{
+    content: '\2718';
+    color: #eb5952;
+    border: 1px solid #eb5952;
+    border-radius: 50%;
+}
+
+.span-blue{
+    background-color: #47adf1;
 }
