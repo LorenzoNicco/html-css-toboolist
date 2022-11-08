@@ -24,16 +24,32 @@ h1{
 }
 
 /*corpo del sito*/
-#buttons{
+#console{
     background-color: white;
     width: 60%;
-    height: 50px;
+    height: 60px;
     margin: 30px auto 5px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     padding: 20px 60px;
-
 }
 
 /*sezione pulsanti*/
+.button{
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 0.7em;
+    border-style: solid;
+}
 
+.blue{
+    background-color: #47adf1;
+    color: white;
+    border-color: #47adf1;
+}
+
+.white{
+    background-color: white;
+    color: #d1d6da;
+    border-color: #d1d6da;
+}
