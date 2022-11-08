@@ -7,9 +7,33 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body{
+    background-color: rgba(246,248,249,255);
+}
+
 /*sezione header*/
+.top-part{
+    padding: 10px;
+    background-color: white;
+}
+
 h1{
-    font-weight: bold;
+    font-weight: bolder;
     display: inline-block;
     vertical-align: 30%;
 }
+
+/*corpo del sito*/
+#buttons{
+    background-color: white;
+    width: 60%;
+    height: 50px;
+    margin: 30px auto 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px 60px;
+
+}
+
+/*sezione pulsanti*/
+
