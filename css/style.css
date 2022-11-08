@@ -94,5 +94,49 @@ ul{
 }
 
 .span-blue{
-    background-color: #47adf1;
+    background-color: #45abea;
+    font-size: 0.7em;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.span-purple{
+    background-color: #9c72e4;
+    font-size: 0.7em;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.span-green{
+    background-color: #64c0a9;
+    font-size: 0.7em;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.span-orange{
+    background-color: #f29e33;
+    font-size: 0.7em;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.span-pink{
+    background-color: #d863a1;
+    font-size: 0.7em;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.span-lightgreen{
+    background-color: #b0c926;
+    font-size: 0.7em;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
 }
