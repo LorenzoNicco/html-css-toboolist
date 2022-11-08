@@ -37,7 +37,7 @@ h1{
 main{
     background-color: white;
     width: 60%;
-    height: 400px;
+    height: 650px;
     margin: 0 auto;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -69,27 +69,33 @@ section{
     margin-bottom: 30px;
 }
 
+h2{
+    color: #444851;
+    margin-bottom: 10px;
+}
+
 h2::before{
     content: '\25BC';
+    color: #444851;
 }
 
 ul{
     list-style-type: none;
     line-height: 40px;
-    padding-left: 10px;
+    padding-left: 5px;
 }
 
 .check::before{
     content: '\2714';
     color: #7bcab7;
-    border: 1px solid #7bcab7;
+    border: 2px solid #7bcab7;
     border-radius: 50%;
 }
 
 .cross::before{
     content: '\2718';
     color: #eb5952;
-    border: 1px solid #eb5952;
+    border: 2px solid #eb5952;
     border-radius: 50%;
 }
 
