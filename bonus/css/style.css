@@ -57,6 +57,11 @@ h1{
     border-style: solid;
 }
 
+.button:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
 .blue{
     background-color: #47adf1;
     color: white;
