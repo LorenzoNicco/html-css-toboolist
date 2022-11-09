@@ -18,10 +18,14 @@ body{
     background-color: white;
 }
 
+img{
+    vertical-align: middle;
+}
+
 h1{
     font-weight: bolder;
     display: inline-block;
-    vertical-align: 30%;
+    vertical-align: middle;
 }
 
 /*corpo del sito*/
@@ -35,7 +39,7 @@ h1{
     padding: 20px 60px;
 }
 
-main{
+.list{
     background-color: white;
     width: 60%;
     height: 650px;
@@ -82,7 +86,6 @@ h2::before{
 
 ul{
     list-style-type: none;
-    padding-left: 5px;
 }
 
 li{
