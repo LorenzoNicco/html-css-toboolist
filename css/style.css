@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
+    font-weight: 900;
 }
 
 body{
@@ -105,6 +106,7 @@ ul{
     color: white;
     border-radius: 10px;
     padding: 5px;
+    font-weight: 400;
 }
 
 .span-purple{
@@ -113,6 +115,7 @@ ul{
     color: white;
     border-radius: 10px;
     padding: 5px;
+    font-weight: 400;
 }
 
 .span-green{
@@ -121,6 +124,7 @@ ul{
     color: white;
     border-radius: 10px;
     padding: 5px;
+    font-weight: 400;
 }
 
 .span-orange{
@@ -129,6 +133,7 @@ ul{
     color: white;
     border-radius: 10px;
     padding: 5px;
+    font-weight: 400;
 }
 
 .span-pink{
@@ -137,6 +142,7 @@ ul{
     color: white;
     border-radius: 10px;
     padding: 5px;
+    font-weight: 400;
 }
 
 .span-lightgreen{
@@ -145,4 +151,5 @@ ul{
     color: white;
     border-radius: 10px;
     padding: 5px;
+    font-weight: 400;
 }
